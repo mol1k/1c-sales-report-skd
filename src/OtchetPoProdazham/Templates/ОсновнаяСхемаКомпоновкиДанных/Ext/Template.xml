@@ -33,10 +33,6 @@
 					<v8:content>Период месяц</v8:content>
 				</v8:item>
 			</title>
-			<role>
-				<dcscom:periodNumber>4</dcscom:periodNumber>
-				<dcscom:periodType>Main</dcscom:periodType>
-			</role>
 			<appearance>
 				<dcscor:item xsi:type="dcsset:SettingsParameterValue">
 					<dcscor:parameter>ГоризонтальноеПоложение</dcscor:parameter>
@@ -168,10 +164,6 @@
 					<v8:content>Партнер</v8:content>
 				</v8:item>
 			</title>
-			<role>
-				<dcscom:periodNumber>3</dcscom:periodNumber>
-				<dcscom:periodType>Main</dcscom:periodType>
-			</role>
 		</field>
 		<field xsi:type="DataSetFieldField">
 			<dataPath>Склад</dataPath>
